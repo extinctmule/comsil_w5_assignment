@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 I am in testbranch1
 =======
 in branch1
 111111
 >>>>>>> testbranch1
+=======
+in branch1
+222222222222222
+>>>>>>> testbranch2
